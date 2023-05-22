@@ -1,0 +1,2 @@
+# -Fotomatic_website
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-making-a-website-responsive/modules/wdcp-22-learn-css-documentation-and-debugging-679e7a04-ff8b-4693-a364-fa420794d1be/informationals/f1-2-c1p1-fotomatic s
